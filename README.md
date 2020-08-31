@@ -1,16 +1,31 @@
-### Hi there 👋
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 I'm currently working as Data generalist at SouFan
+- 🎓 I'm studying Physics at Federal University of Juiz de Fora
+- 💻 I love everything about technology. Besides studying data science in general, I study backend development.
 
-<!--
-**igor-silveira/igor-silveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ | ⚡ Topic |  :computer: Technologies I Use |
+ | ----- | ----- |
+ | <ul><li>Data Science</li></ul>     | <ul><li>Python, Jupyter, TensorFlow </li></ul>|
+ | <ul><li>Data Engineering</li></ul> | <ul><li>Airflow, Python, Metabase, Docker, Spark, AWS(S3, EC2, RDS, Glue) </li></ul>|
+ | <ul><li>Backend</li></ul>          | <ul><li>NodeJs, Express, PostgreSQL, MongoDB</li></ul>|  
+ | <ul><li>Others</li></ul>           | <ul><li>Git, Shell</li></ul>|
+ 
+ <details open>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data generalist at SouFan</b></td>
+      <td>Responsible for implementing the company's data area from data extraction on multiple on-premise servers to analysis and model creation</td>
+      <td>July 2019 - Present</td>
+    </tr>
+  </tbody>
+</table>
+</details>
