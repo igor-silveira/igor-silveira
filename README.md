@@ -1,14 +1,14 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 I'm currently working as Data generalist at SouFan
 - 🎓 I'm studying Physics at Federal University of Juiz de Fora
-- 💻 I love everything about technology. Besides studying data science in general, I study backend development.
+- 💻 I love everything about technology. Besides studying data science in general, I study back-end development
 
  | ⚡ Topic |  :computer: Technologies I Use |
  | ----- | ----- |
- | <ul><li>Data Science</li></ul>     | <ul><li>Python, Jupyter, TensorFlow </li></ul>|
- | <ul><li>Data Engineering</li></ul> | <ul><li>Airflow, Python, Metabase, Docker, Spark, AWS(S3, EC2, RDS, Glue) </li></ul>|
- | <ul><li>Backend</li></ul>          | <ul><li>NodeJs, Express, PostgreSQL, MongoDB</li></ul>|  
- | <ul><li>Others</li></ul>           | <ul><li>Git, Shell</li></ul>|
+ | <ul><li>Data Science</li></ul>      |  <ul><li>Python, Jupyter, TensorFlow </li></ul>|
+ | <ul><li>Data Engineering</li></ul>  |  <ul><li>Airflow, Python, Metabase, Docker, Spark, AWS(S3, EC2, RDS, Glue) </li></ul>|
+ | <ul><li>Back-end</li></ul>          |  <ul><li>NodeJs, Express, PostgreSQL, MongoDB</li></ul>|  
+ | <ul><li>Others</li></ul>            |  <ul><li>Git, Shell</li></ul>|
  
  <details open>
 <summary><b> My Work Experience :point_right: </b></summary>
