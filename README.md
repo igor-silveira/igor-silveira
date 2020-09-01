@@ -1,7 +1,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 I'm currently working as Data generalist at SouFan
 - 🎓 I'm studying Physics at Federal University of Juiz de Fora
-- 💻 I love everything about technology. Besides studying data science in general, I study back-end development
+- 💻 I love everything about technology. Besides studying data topics in general, I study back-end development
 
  | ⚡ Topic |  :computer: Technologies I Use |
  | ----- | ----- |
