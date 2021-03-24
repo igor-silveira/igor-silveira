@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 I'm currently working as Data generalist at SouFan
+- 🖥 I'm currently working as Data Engineer at SouFan
 - 🎓 I'm studying Physics at Federal University of Juiz de Fora
 - 💻 I love everything about technology. Besides studying data topics in general, I study back-end development
 
@@ -7,7 +7,7 @@
  | ----- | ----- |
  | <ul><li>Data Science</li></ul>      |  <ul><li>Python, Jupyter, TensorFlow </li></ul>|
  | <ul><li>Data Engineering</li></ul>  |  <ul><li>Airflow, Python, Metabase, Docker, Spark, AWS(S3, EC2, RDS, Glue) </li></ul>|
- | <ul><li>Back-end</li></ul>          |  <ul><li>NodeJs, Express, PostgreSQL, MongoDB</li></ul>|  
+ | <ul><li>Back-end</li></ul>          |  <ul><li>FastAPI, NodeJs, Express, PostgreSQL, MongoDB</li></ul>|  
  | <ul><li>Others</li></ul>            |  <ul><li>Git, Shell</li></ul>|
  
  <details open>
@@ -21,11 +21,21 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>Data generalist at SouFan</b></td>
+   <tr>
+      <td><b>Data Engineer at SouFan</b></td>
+      <td>Elaboration and development of data architecture</td>
+      <td>July 2020 - Present</td>
+   </tr>
+   <tr>
+      <td><b>Data Engineer at Wari</b></td>
       <td>Responsible for implementing the company's data area from data extraction on multiple on-premise servers to analysis and model creation</td>
-      <td>July 2019 - Present</td>
-    </tr>
+      <td>January 2020 - July 2020</td>
+      </tr>
+   <tr>
+      <td><b>Software Developer Internship at Wari</b></td>
+      <td>I learned good software development practices by making small additions and corrections to systems made in Python</td>
+      <td>August 2019 - December 2019</td>
+   </tr>
   </tbody>
 </table>
 </details>
