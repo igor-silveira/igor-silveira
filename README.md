@@ -24,7 +24,7 @@
     <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original.svg" />
   </div>
   <br />
-  <p>Communication protocol</p>
+  <p>Communication</p>
   <div style="display: inline_block">
     <img align="center" alt="REST" height="30" width="40" src="" />
     <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/graphql/graphql-plain.svg" />
