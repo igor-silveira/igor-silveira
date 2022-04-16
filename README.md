@@ -24,7 +24,7 @@
     <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original.svg" />
   </div>
   <br />
-  <p>Comunicação</p>
+  <p>Communication protocol</p>
   <div style="display: inline_block">
     <img align="center" alt="REST" height="30" width="40" src="" />
     <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/graphql/graphql-plain.svg" />
@@ -32,19 +32,19 @@
     <img align="center" alt="gRPC" height="30" width="40" src="" />
   </div>
   <br />
-  <p>Programação</p>
+  <p>Programming Languages</p>
   <div style="display: inline_block">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" />
     <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
     <img align="center" alt="Scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"/>
   </div>
   <br />
-  <p>Sistema Operacional</p>
+  <p>Operational Systems</p>
   <div style="display: inline_block">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" />
   </div>
   <br />
-  <p>Banco de dados</p>
+  <p>Databases</p>
   <div style="display: inline_block">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" />
