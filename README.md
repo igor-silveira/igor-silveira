@@ -4,7 +4,7 @@
 - 💻 I love everything about technology. Besides studying data topics in general, I study back-end development
 <div align="center">
   <br />
-  <h2>Principais tecnologias</h2>
+  <h2>Core Technologies</h2>
   <br />
   <p>Cloud Provider</p>
   <div style="display: inline_block">
