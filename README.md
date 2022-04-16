@@ -50,3 +50,14 @@
     <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" />
 <br />
+  </div>
+</div>
+
+<div align="center"> 
+  <br />
+  <h2>Reach me on</h2>
+  <br />
+  <a href="https://www.linkedin.com/in/igor-silveira/" target="_blank">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a> 
+</div>
