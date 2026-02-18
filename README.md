@@ -1,62 +1,107 @@
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 I'm currently working as Software Engineer at Globo
-- 🎓 I'm studying Physics at Federal University of Juiz de Fora
 <div align="center">
-  <br />
-  <h2>Core Technologies</h2>
-  <br />
-  <p>Cloud Provider</p>
-  <div style="display: inline_block">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original.svg" />
-     <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  </div>
-  <br />
-  <p>Virtualization and containerization</p>
-  <div style="display: inline_block">
-    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" />
-    <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-plain.svg" />
-  </div>
-  <br />
-  <p>Continuos Integration/Continuos Delivery (CI/CD)</p>
-  <div style="display: inline_block">
-    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg" />
-    <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/gitlab/gitlab-original.svg" />
-  </div>
-  <br />
-  <p>Communication</p>
-  <div style="display: inline_block">
-    <img align="center" alt="REST" height="30" width="40" src="" />
-    <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/graphql/graphql-plain.svg" />
-    <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
-    <img align="center" alt="gRPC" height="30" width="40" src="" />
-  </div>
-  <br />
-  <p>Programming Languages</p>
-  <div style="display: inline_block">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" />
-    <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-    <img align="center" alt="Scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"/>
-  </div>
-  <br />
-  <p>Operational Systems</p>
-  <div style="display: inline_block">
-    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" />
-  </div>
-  <br />
-  <p>Databases</p>
-  <div style="display: inline_block">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" />
-<br />
-  </div>
+
+# Igor Silveira
+
+**Senior Software Engineer**
+
+7 years building backend systems that move real metrics - engagement, revenue, reliability.
+
+Fintech | Media | Healthcare
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-silveira/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:igorrsilveira05@gmail.com)
+
 </div>
 
-<div align="center"> 
-  <br />
-  <h2>Reach me on</h2>
-  <br />
-  <a href="https://www.linkedin.com/in/igor-silveira/" target="_blank">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a> 
+---
+
+### Where I've shipped code
+
+**Globo** (Top 5 media company worldwide) - Recommendation platform serving 25M+ users/day. Boosted engagement 30%. Collaborated directly with Google on the [Media Recommendations](https://cloud.google.com/solutions/media-entertainment) product.
+
+**GoodRx** - Go & Python services powering the Gold subscription platform for millions of users. Grew subscribers by 2.3%.
+
+**B3 (Brazilian Stock Exchange)** - Designed data infrastructure for a $20M cloud migration to AWS. Built a Python quality framework that raised data reliability by 90%.
+
+---
+
+### Featured Project
+
+<a href="https://github.com/igor-silveira/Pincer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=Pincer&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=Pincer&hide_border=true" />
+    <img alt="Pincer" src="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=Pincer&hide_border=true" />
+  </picture>
+</a>
+
+**[Pincer](https://github.com/igor-silveira/Pincer)** - A self-hosted, security-first AI assistant gateway. Single Go binary, zero runtime dependencies.
+
+```
+Messaging       Telegram | Discord | Slack | WhatsApp | Matrix | WebChat
+LLM Providers   Anthropic | OpenAI | Gemini | Ollama
+Security        AES-256-GCM encryption | Ed25519 skill signing | sandboxed tools
+Protocols       HTTP | WebSocket | gRPC | MCP client | A2A server
+```
+
+Key design decisions:
+- **Sandboxed tool execution** - process-level and container-level isolation for shell, file, HTTP, and browser tools
+- **Persistent memory** - structured key-value store with immutable key protection and content-addressed hashing
+- **Human-in-the-loop** - configurable approval modes per tool (auto / ask / deny)
+- **Smart context windowing** - hash-based change detection to avoid redundant token usage
+
+---
+
+### Other Projects
+
+| Project | Description |
+|---------|-------------|
+| [video-encoder-microservice](https://github.com/igor-silveira/video-encoder-microservice) | Go microservice that converts MP4 to MPEG-DASH for adaptive streaming. RabbitMQ + Bento4 + GCS. |
+| [python-boilerplate](https://github.com/igor-silveira/python-boilerplate) | Production-ready Python project template |
+| [ray-tracing](https://github.com/igor-silveira/ray-tracing) | Ray tracer built from scratch |
+| [terraform-provider-tsuru](https://github.com/igor-silveira/terraform-provider-tsuru) | Terraform provider for the Tsuru PaaS |
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+
+**Frameworks & Tools**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=igor-silveira&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&hide_rank=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=igor-silveira&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=igor-silveira&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
+  </picture>
+
 </div>
