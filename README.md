@@ -25,7 +25,32 @@ Fintech | Media | Healthcare
 
 ---
 
-### Featured Project
+### Featured Projects
+
+<a href="https://github.com/igor-silveira/cortex-browser">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=cortex-browser&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=cortex-browser&hide_border=true" />
+    <img alt="cortex-browser" src="https://github-readme-stats.vercel.app/api/pin/?username=igor-silveira&repo=cortex-browser&hide_border=true" />
+  </picture>
+</a>
+
+**[cortex-browser](https://github.com/igor-silveira/cortex-browser)** - Browser perception layer for AI agents. Converts web pages into token-efficient semantic snapshots. Rust, MCP server.
+
+```
+Pipeline     Prune → Role Map → Collapse → Merge
+Output       Compact accessibility tree with stable ref IDs
+Reduction    90-95% fewer tokens than raw HTML
+Transports   MCP stdio | Streamable HTTP + SSE
+```
+
+Key design decisions:
+- **4-stage DOM pipeline** - strips scripts, styles, hidden elements, then maps ARIA semantics, collapses wrappers, and merges siblings
+- **Stable ref IDs** - hash-based refs survive DOM mutations, enabling reliable element interaction across snapshots
+- **Viewport-aware snapshots** - marks off-screen elements, supports scroll navigation, and returns diffs instead of full re-snapshots
+- **Multi-tab state management** - independent tab state with CDP connection pooling and DOM mutation observers
+
+---
 
 <a href="https://github.com/igor-silveira/Pincer">
   <picture>
@@ -70,6 +95,7 @@ Key design decisions:
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
